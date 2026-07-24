@@ -30,7 +30,16 @@ The AI feature functions as an elite parliamentary debate coach.
 - **App Builder & Hosting:** v0 by Vercel, Vercel Platform
 - **Version Control:** GitHub
 
-## 6. How to Run the Project Locally
+
+## 6. Screenshots of app in working
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 02 54 PM" src="https://github.com/user-attachments/assets/5ad828b6-43ec-4a8b-a23f-31db51288a9a" />
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 02 59 PM" src="https://github.com/user-attachments/assets/e25b556e-3330-47e5-bb3c-47d370c74bb5" />
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 03 13 PM" src="https://github.com/user-attachments/assets/c3edb0e3-602e-4f15-ab1b-165abdf4c45a" />
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 03 23 PM" src="https://github.com/user-attachments/assets/fd1b449c-8112-4be8-9607-c011c5b6dca4" />
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 05 00 PM" src="https://github.com/user-attachments/assets/1f7b8554-e831-4190-b422-07adda4aa997" />
+<img width="1365" height="594" alt="Screenshot 2026-07-24 5 05 11 PM" src="https://github.com/user-attachments/assets/5214385c-9e78-4190-aa28-d33473a92da6" />
+
+## 7. How to Run the Project Locally
 1. Clone this repository:
    ```bash
    git clone [https://github.com/rahmanouman25-cloud/MotionMaster.git](https://github.com/rahmanouman25-cloud/MotionMaster.git)
