@@ -6,7 +6,7 @@ In British Parliamentary (BP) debate, speakers receive a complex motion and have
 **MotionMaster** acts as a virtual prep partner and coach. It converts debate motions into structured arguments, predicts opposition vulnerabilities, and simulates role-specific 3-point rebuttals based on standard BP speaking order.
 
 ## 2. Live Deployed URL
-🔗 Live App: [https://motionmaster.vercel.app](https://motionmaster.vercel.app).
+🔗 Live App: [https://motionmaster-three.vercel.app](https://motionmaster-three.vercel.app).
 
 ## 3. Key Features
 - **Case File Generator:** Breaks motions down into core arguments (Claims, Mechanisms, Impacts) and isolates 2 key opposition vulnerabilities.
